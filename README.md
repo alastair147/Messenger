@@ -1,4 +1,4 @@
-[![I am available for hire](http://relatedcode.com/github/header10.png)](http://relatedcode.com)
+Converting to a more upto date app
 
 ## OVERVIEW
 
